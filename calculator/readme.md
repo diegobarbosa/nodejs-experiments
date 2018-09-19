@@ -1,4 +1,3 @@
 Uma simples calculadora em NodeJs
 
-## Global packages
-- npm install -g mocha@^5.2.0
+Use ./init.sh para instalar os pacotes e abrir pelo VSCode
